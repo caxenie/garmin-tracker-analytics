@@ -1,4 +1,4 @@
-# Garmin Activity Tracker Datenanalyse
+# Garmin Aktivitätstracker Datenanalyse
 
 
 Eine Reihe nützlicher Datenanalysetools und Visualisierungen für Aktivitäts-Tracker-Daten. Die hier angegebenen Daten sind mein Garmin Connect-Aktivitätsbericht zwischen 2016 und 2019.
