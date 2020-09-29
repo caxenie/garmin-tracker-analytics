@@ -5,4 +5,4 @@ Eine Reihe nützlicher Datenanalysetools und Visualisierungen für Aktivitäts-T
 
 ![](https://github.com/caxenie/garmin-tracker-analytics/raw/master/activities.png)
 
-Das Notebook bietet einige quantifizierte Selbstanalysen, die in Garmin Connect nicht enthalten sind.
+Das Notebook bietet einige Analysen, die in Garmin Connect nicht enthalten sind.
